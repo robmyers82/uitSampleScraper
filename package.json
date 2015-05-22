@@ -1,0 +1,20 @@
+{
+  "name": "uitSampleScraper",
+  "version": "1.0.0",
+  "description": "Sample Web Scraper using Google Custom Search",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/robmyers82/uitSampleScraper.git"
+  },
+  "author": "Rob Myers <@robmyers82>",
+  "license": "MIT",
+  "homepage": "https://github.com/robmyers82/uitSampleScraper",
+  "dependencies": {
+    "body-parser": "1.10.2",
+    "express": "4.11.1",
+    "googleapis": "^2.0.4",
+    "pg": "4.2.0",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
