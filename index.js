@@ -6,7 +6,7 @@ var request = require('request');
 var cheerio = require('cheerio');
 
 const CX = '014046724608856018103:lcrnmsifzw8';
-const API_KEY = 'AIzaSyB1YP7dumynFwm1gJvSLklbsKoGP2LerV0';
+const API_KEY = 'YOUR API KEY HERE';
 
 var app = express();
 app.use(bodyParser());
