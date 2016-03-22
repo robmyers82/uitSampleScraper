@@ -11,10 +11,11 @@
   "homepage": "https://github.com/robmyers82/uitSampleScraper",
   "dependencies": {
     "body-parser": "1.10.2",
+    "cheerio": "latest",
     "express": "4.11.1",
     "googleapis": "^2.0.4",
+    "mongoose": "~3.8.1",
     "pg": "4.2.0",
-    "request"    : "latest",
-    "cheerio"    : "latest"
+    "request": "latest"
   }
 }
